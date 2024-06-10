@@ -86,7 +86,7 @@ include 'dbconnect.php';
 		<div class="container">
 		<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
-					<li><i class="fa fa-phone" aria-hidden="true"></i>Hubungi Kami : (+6252) 123 456 789</li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>Hubungi Kami : 081339841580</li>
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
