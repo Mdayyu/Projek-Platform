@@ -39,7 +39,7 @@ if(isset($_POST['adduser']))
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="OKE JASA, Kelompok 10" />
+<meta name="keywords" content="OKE JASA" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
@@ -96,7 +96,7 @@ if(isset($_POST['adduser']))
 		<div class="container">
 		<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
-					<li><i class="fa fa-phone" aria-hidden="true"></i>Hubungi Kami :(+6282) 253 702 199</li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>Hubungi Kami :(+62) 087 752 898 712 </li>
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
@@ -206,8 +206,8 @@ if(isset($_POST['adduser']))
 					<h3>Hubungi Kami</h3>
 					
 					<ul class="address">
-						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Kelompok 9, Yogyakarta.</li>
-						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@email">info@email</a></li>
+						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Yogyakarta</li>
+						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@email">info@email.com</a></li>
 						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+62 8225 3702 199</li>
 					</ul>
 				</div>
@@ -226,7 +226,7 @@ if(isset($_POST['adduser']))
 		<div class="footer-copy">
 			
 			<div class="container">
-				<p>© 2022 Kelompok 10. All rights reserved</p>
+				<p>© 2024 Kelompok Jasa. All rights reserved</p>
 			</div>
 		</div>
 		
