@@ -283,7 +283,7 @@ include 'dbconnect.php';
 		<div class="footer-copy">
 			
 			<div class="container">
-				<p>© 2021 Kelompok 10. All rights reserved</p>
+				<p>© 2024 Okejasa. All rights reserved</p>
 			</div>
 		</div>
 		
