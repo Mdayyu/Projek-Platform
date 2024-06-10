@@ -86,7 +86,7 @@ include 'dbconnect.php';
 		<div class="container">
 		<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
-					<li><i class="fa fa-phone" aria-hidden="true"></i>Hubungi Kami : 081339841580</li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>Hubungi Kami : (+6257) 8370 6151</li>
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
@@ -283,7 +283,7 @@ include 'dbconnect.php';
 		<div class="footer-copy">
 			
 			<div class="container">
-				<p>© 2021 Kelompok 10. All rights reserved</p>
+				<p>© 2024 Okejasa. All rights reserved</p>
 			</div>
 		</div>
 		
