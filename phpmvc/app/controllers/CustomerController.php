@@ -1,5 +1,5 @@
 <?php
-namespace App\Controllers;
+namespace app\controllers;
 
 require_once '../app/models/CustomerModel.php';
 require_once '../app/views/CustomerView.php';
